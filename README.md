@@ -30,7 +30,7 @@ Developed in 2020 to accomodate the needs of Member-Consumer-Owners (MCOs) to vi
 
 
 ## ✔️ Outage Management System (Simplified)
-Conceptualized in 2008 in an effort to replace the hand written logbook to a proper software system designed to log calls, consumer concerns, and reported power outages.
+Conceptualized and created in 2008 in an effort to replace the hand written logbook with a proper software system designed to log calls, consumer concerns, and reported power outages.
 
 **Repository**: https://github.com/daxumaming/oms  
 **Visibility**: Private, Intellectual Property  
@@ -61,6 +61,7 @@ Designed, developed, and completed in one month in 2024 in support of the projec
 **Visibility**: Private, Intellectual Property  
 **Status**: in production  
 **Live**: https://ddcc.beneco.com.ph   
+**News Article**: https://www.beneco.com.ph/article.php?id=147  
 
 **Tech Stack**: Ubuntu 22.04, Nginx, PHP, Oracle 19c, MariaDB, MS SQL
 
@@ -98,6 +99,8 @@ An Android project using Java to query the REST API for scheduled/unscheduled/re
 
 **Tech Stack**: Android, Java
 
+![Project Animus](screenshots/animus.jpg)
+
 
 ## 😐 CWP DB Admin
 A C# + WPF desktop utility to fetch and process data from an Oracle Database and inserted to a MariaDB database.
@@ -119,7 +122,7 @@ A Java Spring project to track requests of employees and accomplishments of the 
 
 
 ## 😐 Blockmetering System
-A web based system to track poles, distribution transformers, mother meters, and primary/secondary/service lines. This software system is used to calculate the technical systems loss of a particular area and determine possible pilferage if the calculated technical systems loss does not match the actual systems loss. This project was decommissioned in 2018.
+My first website project in PHP. A web based system to track poles, distribution transformers, mother meters, and primary/secondary/service lines. This software system is used to calculate the technical systems loss of a particular area and determine possible pilferage if the calculated technical systems loss does not match the actual systems loss. This project was decommissioned in 2018.
 
 **Repository**: none  
 **Visibility**: n/a  
@@ -148,7 +151,7 @@ A raffle desktop application developed in C# + WPF used during the Annual Genera
 **Tech Stack**: C#, WPF, MariaDB
 
 ## ❌ Human Resource Information System
-An HR System developed in C# + Winform. It creates and tracks leaves, gate passes, gathers check-in/check-out biometric logs, and daily schedules. Was not deployed to production in favor of a third-party subscription service.
+An HR System developed in C# + Winform. It creates and tracks leaves, overtime, gate passes, daily schedules, and gathers check-in/check-out biometric logs. It will generate daily, weekly, bi-weekly, and monthly attendance reports with calculated overtime hours and night shift differential. Was not deployed to production in favor of a third-party subscription service.
 
 **Repository**: none  
 **Visibility**: n/a  
