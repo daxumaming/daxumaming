@@ -88,7 +88,8 @@ Manage requests and log accomplishments through a ticketing system.
 
 **Tech Stack**: Ubuntu 22.04, Nginx, PHP, MariaDB
 
-![REST API](screenshots/ticketing.jpg)
+![Ticketing System](screenshots/ticketing.jpg)
+![Ticketing System](screenshots/TicketingSystem1_mini.jpg)
 
 ## ✔️ Project Animus
 An Android project using Java to query the REST API for scheduled/unscheduled/restored power outages, meter/billing status, and consumer data.
@@ -100,6 +101,18 @@ An Android project using Java to query the REST API for scheduled/unscheduled/re
 **Tech Stack**: Android, Java
 
 ![Project Animus](screenshots/animus.jpg)
+
+
+## ✔️ Oracle DB Sessions Management
+A C#/Winforms application that monitors and kills Oracle database sessions. SQL queries are also displayed. Hanged sessions can be killed freeing up resources. Originally developed by IBO.
+
+**Repository**: None   
+**Visibility**: n/a  
+**Status**: in production  
+
+**Tech Stack**: C#, Winforms, MetroUI  
+
+![Project Animus](screenshots/OracleDB3_mini.jpg)
 
 
 ## 😐 CWP DB Admin
@@ -188,6 +201,120 @@ An Android application that interacts with the Outage Management System via the 
 **Status**: undeployed  
 
 **Tech Stack**: Android, Kotlin
+
+# 🗃️ Relevant IT Skills
+
+## ✔️ CyberSecurity
+Intermediate knowledge of CyberSecurity with focus on defense of public-facing servers through the use of SIEM (Wazuh), Firewalls (Sophos), and other utilities (Fail2Ban) as well as server hardening.
+
+![USAID CAF](screenshots/CyberSecurityCAF_mini.jpg)
+
+## ✔️ Security Information and Events Management (SIEM)
+Installation, configuration, and management of Wazuh, and Open-Source SIEM tool to manage and assess CyberSecurity risks.
+
+![Wazuh](screenshots/Wazuh1_mini.jpg)
+![Wazuh](screenshots/Wazuh2_mini.jpg)
+![Wazuh](screenshots/Wazuh3_mini.jpg)
+![Wazuh](screenshots/Wazuh4_mini.jpg)
+
+## ✔️ Data Center Management
+Setup, configuration, and administration of on-premise data center.
+
+![Data Center](screenshots/DataCenterMgmt2_mini.jpg)
+![Data Center](screenshots/DataCenterMgmt3_mini.jpg)
+![Data Center](screenshots/DataCenterMgmt4_mini.jpg)
+
+## ✔️ LAN, WAN, and WLAN Networking
+Setup, configuration, and administration WAN, LAN, and WLAN networks. Management of multiple ISPs composed of 3 fiber optic and one satellite (Starlink). Configured Load Balancing and Bonding.
+
+![Networking](screenshots/Networking1_mini.jpg)
+![Networking](screenshots/Networking2_mini.jpg)
+![Networking](screenshots/Networking3_mini.jpg)
+![Networking](screenshots/StarlinkSetup_mini.jpg)
+
+## ✔️ Fiber-optic Cabling and Fusion
+Designed, installed, and troubleshooting of fiber-optic communications.
+
+![Fiber Optic](screenshots/FiberOpticCable1_mini.jpg)
+![Fiber Optic](screenshots/FiberOpticCable2_mini.jpg)
+
+## ✔️ Wireless WAN
+Designed wireless redundancy of our WAN with Ubiquiti.
+
+![Fiber Optic](screenshots/UbiquitiMgmt_mini.jpg)
+
+## ✔️ Server and Database Administration
+With over sixteen years experience of setting up and rolling into production server with various purposes. Installed and managed PostgreSQL, Oracle Database, Web Servers (Tomcat and NginX), VM servers, SCADA servers, and others.
+
+![Server Administration](screenshots/ServerAdmin_mini.jpg)
+![Server Administration](screenshots/OracleDB1_mini.jpg)
+![Server Administration](screenshots/OracleDB2_mini.jpg)
+
+## ✔️ Network Monitoring and Management
+Monitoring of network devices such as remote terminal units, client desktops, various server, and other network switches through the use of traditional ping, MetaPing, and Shinken.
+
+![Network Monitoring](screenshots/Monitoring1_mini.jpg)
+![Network Monitoring](screenshots/Monitoring2_mini.jpg)
+![Network Monitoring](screenshots/Shinken_mini.jpg)
+
+## ✔️ Web Analytics
+Analysis of web server performance and user interaction through the use of Google Tag Manager and server analytics utility (GoAccess). 
+
+![Web Analytics](screenshots/goaccess_mini.jpg)
+
+## ✔️ Spring Projects and Tomcat Administration
+Caretaker of multiple in-house Java Spring applications for over 5 years. Tasked with upgrading and modifying various modules.
+
+![Java Spring](screenshots/SpringApplications_mini.jpg)
+![Tomcat Administration](screenshots/TomcatServerMgmt_mini.jpg)
+
+## ✔️ Virtual Machines Management
+Over a decade experience with Oracle VirtualBox and QEMU.
+
+![VM Management](screenshots/VMMgmt_mini.jpg)
+
+## ✔️ Mail Server Administration
+Installed, configured, and managed Zimbra Mail Servers since 2014. Implemented various rules and server hardening to protect the company's email server.
+
+![VM Management](screenshots/ZimbraMgmt_mini.jpg)
+
+## ✔️ Firewall Administration
+Installed, configured, and managed Sophos firewall appliance. This is also where I'ved setup VLANs and VPN.
+
+![VM Management](screenshots/SophosMgmt_mini.jpg)
+
+## ✔️ Remote Access
+Utilized RustDesk, an open source remote desktop utility which has proven useful during the 2020 pandemic lockdowns. Setup and configured a self-hosted service.
+
+![Rustdesk](screenshots/Rustdesk_mini.jpg)
+
+## ✔️ Push-to-Talk over Cellular (POC) Radio
+Spearheaded the transition of UHF to POC Radio Communications.
+
+![POC Radio](screenshots/POCRadio_mini.jpg)
+
+## ✔️ Microsoft Power BI
+Utilized Microsoft PowerBI for business intelligence needs of the cooperative.
+
+![PowerBI](screenshots/PowerBI1_mini.jpg)
+
+## ✔️ LED Wall Installation and Management
+Installed and configured a LED Wall.
+
+![LED Wall](screenshots/LEDWall1_mini.jpg)
+
+## ✔️ Livestreaming
+A minor skill, but important nonetheless. I used OBS Studio and vMix to stream to Facebook, YouTube, and Zoom.
+
+![Livestreaming](screenshots/Livestreaming_mini.jpg)
+
+## ✔️ Content Creation and Social Media Management
+Yet another minor skill, but was proven crucial in disseminating information to clients and members.
+
+![LED Wall](screenshots/ContentCreationandSocMed_mini.jpg)
+
+
+
 
 
 
