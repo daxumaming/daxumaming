@@ -205,12 +205,12 @@ An Android application that interacts with the Outage Management System via the 
 # 🗃️ Relevant IT Skills
 
 ## ✔️ CyberSecurity
-Intermediate knowledge of CyberSecurity with focus on defense of public-facing servers through the use of SIEM (Wazuh), Firewalls (Sophos), and other utilities (Fail2Ban) as well as server hardening.
+Intermediate knowledge of CyberSecurity with focus on defense of public-facing servers through the use of SIEM (Wazuh), Firewalls (Sophos), Enpoint Security (Seqrite) and other utilities (Fail2Ban) as well as server hardening.
 
 ![USAID CAF](screenshots/CyberSecurityCAF_mini.jpg)
 
 ## ✔️ Endpoint Security and Intrusion Prevention System (IPS)
-Installation, configuration, and management of Seqrite, and enterprise endpoint security to actively protect our clients on the network.
+Installation, configuration, and management of Seqrite, an enterprise endpoint security and part of Cybersecurity measures to actively protect our clients on the network.
 
 ![Seqrite](screenshots/seqrite.jpg)
 
