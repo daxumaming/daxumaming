@@ -209,6 +209,11 @@ Intermediate knowledge of CyberSecurity with focus on defense of public-facing s
 
 ![USAID CAF](screenshots/CyberSecurityCAF_mini.jpg)
 
+## ✔️ Endpoint Security and Intrusion Prevention System (IPS)
+Installation, configuration, and management of Seqrite, and enterprise endpoint security to actively protect our clients on the network.
+
+![Seqrite](screenshots/seqrite.jpg)
+
 ## ✔️ Security Information and Events Management (SIEM)
 Installation, configuration, and management of Wazuh, and Open-Source SIEM tool to manage and assess CyberSecurity risks.
 
