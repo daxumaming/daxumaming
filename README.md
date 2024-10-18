@@ -214,7 +214,7 @@ Installed, configured, and managed Sophos firewall appliance. This is also where
 
 ![VM Management](screenshots/SophosMgmt_mini.jpg)
 
-## ✔️ Endpoint Security and Intrusion Prevention System (IPS)
+## ✔️ Endpoint Security and Intrusion Detection/Intrusion Prevention Systems (IDS/IPS)
 Installation, configuration, and management of Seqrite, an enterprise endpoint security and part of Cybersecurity measures to actively protect our clients on the network.
 
 ![Seqrite](screenshots/seqrite.jpg)
