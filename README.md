@@ -209,6 +209,11 @@ Intermediate knowledge of CyberSecurity with focus on defense of public-facing s
 
 ![USAID CAF](screenshots/CyberSecurityCAF_mini.jpg)
 
+## ✔️ Firewall Administration
+Installed, configured, and managed Sophos firewall appliance. This is also where I'ved setup VLANs and VPN.
+
+![VM Management](screenshots/SophosMgmt_mini.jpg)
+
 ## ✔️ Endpoint Security and Intrusion Prevention System (IPS)
 Installation, configuration, and management of Seqrite, an enterprise endpoint security and part of Cybersecurity measures to actively protect our clients on the network.
 
@@ -221,6 +226,11 @@ Installation, configuration, and management of Wazuh, and Open-Source SIEM tool 
 ![Wazuh](screenshots/Wazuh2_mini.jpg)
 ![Wazuh](screenshots/Wazuh3_mini.jpg)
 ![Wazuh](screenshots/Wazuh4_mini.jpg)
+
+## ✔️ Supervisory Control and Data Acquisition (SCADA)
+Trained in the implementation of the Electric Cooperative's SCADA system. Actively provides support on database and network-related issues encountered.
+
+![VM Management](screenshots/scada.jpg)
 
 ## ✔️ Data Center Management
 Setup, configuration, and administration of on-premise data center.
@@ -249,7 +259,7 @@ Designed wireless redundancy of our WAN with Ubiquiti.
 ![Fiber Optic](screenshots/UbiquitiMgmt_mini.jpg)
 
 ## ✔️ Server and Database Administration
-With over sixteen years experience of setting up and rolling into production server with various purposes. Installed and managed PostgreSQL, Oracle Database, Web Servers (Tomcat and NginX), VM servers, SCADA servers, and others.
+With over sixteen years experience of setting up and rolling into production multiple servers with various purposes. Installed and managed PostgreSQL, Oracle Database, Web Servers (Tomcat and NginX), VM servers, SCADA servers, SIEM servers, ES/IPS servers, and others.
 
 ![Server Administration](screenshots/ServerAdmin_mini.jpg)
 ![Server Administration](screenshots/OracleDB1_mini.jpg)
@@ -283,11 +293,6 @@ Installed, configured, and managed Zimbra Mail Servers since 2014. Implemented v
 
 ![VM Management](screenshots/ZimbraMgmt_mini.jpg)
 
-## ✔️ Firewall Administration
-Installed, configured, and managed Sophos firewall appliance. This is also where I'ved setup VLANs and VPN.
-
-![VM Management](screenshots/SophosMgmt_mini.jpg)
-
 ## ✔️ Remote Access
 Utilized RustDesk, an open source remote desktop utility which has proven useful during the 2020 pandemic lockdowns. Setup and configured a self-hosted service.
 
@@ -302,6 +307,11 @@ Spearheaded the transition of UHF to POC Radio Communications.
 Utilized Microsoft PowerBI for business intelligence needs of the cooperative.
 
 ![PowerBI](screenshots/PowerBI1_mini.jpg)
+
+## ✔️ Thin-Client Computing
+An R&D initiative to utilize thin-client computing for collection associates that does not require much computing power thereby saving the electric cooperative hundreds of thousands of pesos.
+
+![PowerBI](screenshots/ncomputing.jpg)
 
 ## ✔️ LED Wall Installation and Management
 Installed and configured a LED Wall.
