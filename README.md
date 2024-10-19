@@ -246,7 +246,6 @@ Setup, configuration, and administration WAN, LAN, and WLAN networks. Management
 ![Networking](screenshots/Networking2_mini.jpg)
 ![Networking](screenshots/Networking3_mini.jpg)
 ![Networking](screenshots/StarlinkSetup_mini.jpg)
-
 ## ✔️ Fiber-optic Cabling and Fusion
 Designed, installed, and troubleshooting of fiber-optic communications.
 
@@ -264,6 +263,13 @@ With over sixteen years experience of setting up and rolling into production mul
 ![Server Administration](screenshots/ServerAdmin_mini.jpg)
 ![Server Administration](screenshots/OracleDB1_mini.jpg)
 ![Server Administration](screenshots/OracleDB2_mini.jpg)
+
+## ✔️ Forward Proxy, Reverse Proxy, and Load Balancing
+Utilized Nginx for forward proxy, reverse proxy, and load balancing. Also utilized Dansguardian for content control and filtering of unproductive websites.
+
+![Nginx](images/nginx.jpg)
+![Dansguardian](screenshots/dansguardian.jpg)
+
 
 ## ✔️ Network Monitoring and Management
 Monitoring of network devices such as remote terminal units, client desktops, various server, and other network switches through the use of traditional ping, MetaPing, and Shinken.
