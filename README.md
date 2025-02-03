@@ -114,6 +114,18 @@ A C#/Winforms application that monitors and kills Oracle database sessions. SQL 
 
 ![Project Animus](screenshots/OracleDB3_mini.jpg)
 
+## ✔️ Geographical Information System (GIS)
+View the geographical data of the province in QGIS overlayed with real-time location data of field workers. Location data is sent via SMS to an SMS Gateway. An insertdb script is triggered upon receipt to insert said location data to a PostgreSQL database.
+
+**Status**: in production  
+
+**Tech Stack**: Ubuntu 22.04, Windows 10, PostgreSQL, Python, QGIS
+
+![GIS](screenshots/benecogis03.jpg)
+![GIS](screenshots/benecogis04.jpg)
+![GIS](screenshots/benecogis01.jpg)
+![GIS](screenshots/benecogis02.jpg)
+
 
 ## 😐 CWP DB Admin
 A C# + WPF desktop utility to fetch and process data from an Oracle Database and inserted to a MariaDB database.
@@ -297,12 +309,12 @@ Over a decade experience with Oracle VirtualBox and QEMU.
 ## ✔️ Containers
 Been using Docker for containerized applications such as authentication microservices and others built in Django and Laravel.
 
-![VM Management](screenshots/docker.jpg)
+![Docker Containers](screenshots/docker.jpg)
 
 ## ✔️ Mail Server Administration
 Installed, configured, and managed Zimbra Mail Servers since 2014. Implemented various rules and server hardening to protect the company's email server.
 
-![VM Management](screenshots/ZimbraMgmt_mini.jpg)
+![Mail Server - Zimbra](screenshots/ZimbraMgmt_mini.jpg)
 
 ## ✔️ Remote Access
 Utilized RustDesk, an open source remote desktop utility which has proven useful during the 2020 pandemic lockdowns. Setup and configured a self-hosted service.
