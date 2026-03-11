@@ -263,12 +263,12 @@ Designed, installed, and troubleshooting of fiber-optic communications.
 
 ![Fiber Optic](screenshots/FiberOpticCable1_mini.jpg)
 ![Fiber Optic](screenshots/FiberOpticCable2_mini.jpg)
-
+<!--
 ## ✔️ Wireless WAN
 Designed wireless redundancy of our WAN with Ubiquiti.
 
 ![Fiber Optic](screenshots/UbiquitiMgmt_mini.jpg)
-
+-->
 ## ✔️ Server and Database Administration
 With over sixteen years experience of setting up and rolling into production multiple servers with various purposes. Installed and managed PostgreSQL, Oracle Database, Web Servers (Tomcat and NginX), VM servers, SCADA servers, SIEM servers, ES/IPS servers, and others.
 
