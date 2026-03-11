@@ -102,7 +102,7 @@ An Android project using Java to query the REST API for scheduled/unscheduled/re
 
 ![Project Animus](screenshots/animus.jpg)
 
-
+<!--
 ## ✔️ Oracle DB Sessions Management
 A C#/Winforms application that monitors and kills Oracle database sessions. SQL queries are also displayed. Hanged sessions can be killed freeing up resources. Originally developed by IBO.
 
@@ -125,7 +125,7 @@ View the geographical data of the province in QGIS overlayed with real-time loca
 ![GIS](screenshots/benecogis04.jpg)
 ![GIS](screenshots/benecogis01.jpg)
 ![GIS](screenshots/benecogis02.jpg)
-
+-->
 
 ## 😐 CWP DB Admin
 A C# + WPF desktop utility to fetch and process data from an Oracle Database and inserted to a MariaDB database.
